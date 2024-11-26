@@ -2,7 +2,9 @@
 
 Repository for the course "Microbiome Analysis in R"
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13650233.svg)](https://doi.org/10.5281/zenodo.13650233)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13972776.svg)](https://doi.org/10.5281/zenodo.13972776)
+
 
 
 ## Summary
