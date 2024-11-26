@@ -34,7 +34,7 @@ We thank Daniel López Juárez, who developed this course, for his valuable cont
 
 ## Program
 
-### Module 1: [Introduction to Google Colaboratory]()
+### Module 1: [Introduction to Google Colaboratory](01.Introduction.ipynb)
 
 To get started, go to https://colab.research.google.com/.
 
@@ -42,11 +42,11 @@ On the Colab homepage, select "File" and then "Open notebook".
 
 There is a tab for "GitHub"; select that tab and paste the following URL in the search bar under "Enter a GitHub URL or search by organization or user":
 
-`https://github.com/cabana-online/Tutorial_Introduccion`
+`https://github.com/cabana-online/Microbiome_Analysis_in_R`
 
 After a brief search, you will see the notebook:
 
-`01.Intro_a_colab.ipynb`
+`01.Introduction.ipynb`
 
 Select it, and the notebook will open.
 
@@ -54,7 +54,8 @@ To run the cells, you will need to log in with your Google account (it’s free 
 
 **Note:** There are limitations in the free version, but they will not be reached in this course.
 
-### Module 2: [Metagenome Analysis in R]()
+
+### Module 2: [Metagenome Analysis in R](02.Microbiome Analysis in R.ipynb)
 
 To get started, go to https://colab.research.google.com/.
 
@@ -62,11 +63,11 @@ On the Colab homepage, select "File" and then "Open notebook".
 
 There is a tab for "GitHub"; select that tab and paste the following URL in the search bar under "Enter a GitHub URL or search by organization or user":
 
-`https://github.com/cabana-online/Tutorial_Introduccion`
+`https://github.com/cabana-online/Microbiome_Analysis_in_R`
 
 After a brief search, you will see the notebook:
 
-`01.Intro_a_colab.ipynb`
+`02.Microbiome Analysis in R.ipynb`
 
 Select it, and the notebook will open.
 
